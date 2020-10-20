@@ -12,7 +12,7 @@ function setup() {
  rect(30*i,30*j,30,30)}
 
     }
-    }
+    } 
 
 
   for(let i=0; i<8; i++){
